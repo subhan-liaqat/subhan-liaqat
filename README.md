@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left"><br>- 👨🏻‍🎓 BS Data Science (2021 - 25)<br>- 💻 Former Data Science Intern at NETSOL Technologies<br>- ⚡ I love solving LeetCode Problems and participating in Int'l hackathons</p>
+<p align="left">- 👨🏻‍🎓 BS Data Science (2021 - 25)<br>- 💻 Former Data Science Intern at NETSOL Technologies<br>- ⚡ I love solving LeetCode Problems and participating in Int'l hackathons</p>
 
 ###
 
