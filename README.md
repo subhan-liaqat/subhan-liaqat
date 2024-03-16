@@ -1,4 +1,4 @@
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">hey there 👋, I'm Subhan Liaqat</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Subhan Liaqat<br><br>- 👨🏻‍🎓 BS Data Science (2021 - 25)<br>- 💻 Former Data Science Intern at NETSOL Technologies<br>- ⚡ I love solving LeetCode Problems and participating in Int'l hackathons</p>
+<p align="left"><br>- 👨🏻‍🎓 BS Data Science (2021 - 25)<br>- 💻 Former Data Science Intern at NETSOL Technologies<br>- ⚡ I love solving LeetCode Problems and participating in Int'l hackathons</p>
 
 ###
 
