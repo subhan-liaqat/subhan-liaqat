@@ -1,4 +1,4 @@
-<h1 align="center">hey there 👋, I'm Subhan Liaqat</h1>
+<h1 align="center">hey there 👋</h1>
 
 ###
 
@@ -13,8 +13,6 @@
 <h3 align="left">👋 Feel free to reach me out</h3>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <a href="https://www.linkedin.com/in/subhan-liaqat/" target="_blank">
