@@ -68,11 +68,3 @@
 </div>
 
 ###
-
-<h3 align-"left">🌱 My Contributions:</h3>
-
-###
-
-<img src="https://raw.githubusercontent.com/subhan-liaqat/subhan-liaqat/output/snake.svg" alt="Snake animation" />
-
-###
