@@ -33,7 +33,8 @@
   <a href="https://api.whatsapp.com/send?phone=923124507976" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="38" height="26" alt="whatsapp logo"  />
   </a>
-  <a href="https://leetcode.com/subhanliaqat/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="subhanliaqat" height="30" width="40" style="max-width: 100%;">
+  <a href="https://leetcode.com/subhanliaqat/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="38" height="26" alt="leetcode logo">
   </a>
 </div>
 
