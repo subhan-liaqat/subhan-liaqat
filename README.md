@@ -1,6 +1,6 @@
 # Hi there, I'm Subhan Liaqat! 👋
 
-I'm a passionate Data Science student and aspiring PhD candidate with a strong background in machine learning, artificial intelligence, and data analysis. I thrive on solving complex problems and creating innovative solutions that make a difference.
+I'm looking for PhD positions in machine learning, artificial intelligence, and data analysis.
 
 ## 🌱 About Me
 - Currently pursuing a **BS in Data Science** at Government College University Faisalabad, with a CGPA of **3.39/4.00**.
@@ -25,17 +25,15 @@ I'm a passionate Data Science student and aspiring PhD candidate with a strong b
   Government College University Faisalabad, Faisalabad, PK  
   CGPA: 3.39/4.00 | Rank: 5/54
 
+## 🔍 Research Experience
+- **Research Assistant** at GCUF (Oct 2024 - Present)
+ 
 ## 🧑‍🏫 Teaching Experience
 - **Section Leader** at Stanford University Code In Place (Apr 2024 - Jun 2024)
 - **Teaching Assistant** for Introduction to Probability Distributions at GCUF (Feb 2024 - Jun 2024)
-
-## 🔍 Research Experience
-- **Research Assistant** at GCUF (Oct 2024 - Present)
-  - Conducting research on **Intrusion Detection in IoT Networks**.
-  
+ 
 ## 💼 Corporate Experience
 - **Data Science Intern** at NETSOL Technologies Limited (Aug 2023 - Nov 2023)
-  - Developed RESTful APIs and built data pipelines on AWS.
 
 ## 🌍 International Hackathons
 - **Benin Multimodal AI Hackathon** (May 2024)
