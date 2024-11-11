@@ -1,28 +1,50 @@
-<h1 align="center">Hi 👋, I'm Subhan Liaqat</h1>
-<h3 align="center">Software Engineer | x-NETSOL | BSDS'25</h3>
+# Hi there, I'm Subhan Liaqat! 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhan-liaqat" alt="subhan-liaqat" /></a> </p>
+I'm a passionate Data Science student and aspiring PhD candidate with a strong background in machine learning, artificial intelligence, and data analysis. I thrive on solving complex problems and creating innovative solutions that make a difference.
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+## 🌱 About Me
+- Currently pursuing a **BS in Data Science** at Government College University Faisalabad, with a CGPA of **3.39/4.00**.
+- Research Assistant focusing on **Intrusion Detection in IoT Networks** using SVM and improved feature selection techniques.
 
-- 🌱 I’m currently learning **Generative AI** and **MLOps**
+## 🏆 Achievements
+- 🥇 **First Place** in Benin Multimodal AI Hackathon | €3000 Award
+- Featured as a **Section Leader** among 30,000+ applicants in Stanford University's Code In Place Program
+- **Harvard CS50x Puzzle Day Winner** with a score of 9/9 among 11,000+ participants
+- Awarded a **120% Scholarship** in my undergraduate degree by HEC Pakistan
+- Recipient of a **Solar Panel System** by CM Pakistan | School Topper
 
-- 💬 Ask me about **GenAI, Data Science, Machine Learning**
+## 🛠️ Skills
+- **Languages**: Python, R, SQL, C/C++, LaTeX
+- **Frameworks**: FastAPI, Flask, Django, LangChain, Streamlit, Gradio
+- **Tools**: Git, Bash, AWS (S3, Glue, Redshift), Power BI
+- **Databases**: MySQL, Oracle, PostgreSQL, SQLite
+- **Libraries**: TensorFlow, Keras, Scikit-Learn, OpenCV, NumPy, Pandas
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/subhan-liaqat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhan-liaqat" height="30" width="40" /></a>
-<a href="https://fb.com/subhanliaqat8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="subhanliaqat8" height="30" width="40" /></a>
-<a href="https://instagram.com/subhanliaqat8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subhanliaqat8" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/subhanliaqat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="subhanliaqat" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discordapp.com/users/947598820550795354" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/947598820550795354" height="30" width="40" /></a>
-</p>
+## 📚 Education
+- **BS Data Science** (Oct 2021 - May 2025)  
+  Government College University Faisalabad, Faisalabad, PK  
+  CGPA: 3.39/4.00 | Rank: 5/54
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 🧑‍🏫 Teaching Experience
+- **Section Leader** at Stanford University Code In Place (Apr 2024 - Jun 2024)
+- **Teaching Assistant** for Introduction to Probability Distributions at GCUF (Feb 2024 - Jun 2024)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhan-liaqat&show_icons=true&locale=en&layout=compact" alt="subhan-liaqat" /></p>
+## 🔍 Research Experience
+- **Research Assistant** at GCUF (Oct 2024 - Present)
+  - Conducting research on **Intrusion Detection in IoT Networks**.
+  
+## 💼 Corporate Experience
+- **Data Science Intern** at NETSOL Technologies Limited (Aug 2023 - Nov 2023)
+  - Developed RESTful APIs and built data pipelines on AWS.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhan-liaqat&show_icons=true&locale=en" alt="subhan-liaqat" /></p>
+## 🌍 International Hackathons
+- **Benin Multimodal AI Hackathon** (May 2024)
+- **Unhallucinate Challenge** (Feb 2024)
+- **GPT-4 Powered App Creation** (Feb 2024)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhan-liaqat&" alt="subhan-liaqat" /></p>
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/subhan-liaqat)
+- [GitHub](https://github.com/subhan-liaqat)
+- [LeetCode](https://leetcode.com/subhanliaqat)
+
+Feel free to reach out if you want to collaborate on projects or discuss ideas!
