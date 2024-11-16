@@ -1,6 +1,6 @@
 # Hi there, I'm Subhan Liaqat! 👋
 
-I'm looking for PhD positions in machine learning, artificial intelligence, statistics, and bioinformatics.
+I'm looking for PhD positions in Statistics, Artificial Intelligence, Information Security, and Bioinformatics.
 
 ## 🌱 About Me
 - Currently pursuing a **BS in Data Science** at Government College University Faisalabad, with a CGPA of **3.39/4.00**.
