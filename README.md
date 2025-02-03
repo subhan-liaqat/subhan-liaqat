@@ -3,7 +3,7 @@
 I'm looking for PhD positions in Statistics, Artificial Intelligence, Information Security, and Bioinformatics.
 
 ## 🌱 About Me
-- Currently pursuing a **BS in Data Science** at Government College University Faisalabad, with a CGPA of **3.39/4.00**.
+- Currently pursuing a **BS in Data Science** at Government College University Faisalabad, with a CGPA of **3.47/4.00**.
 - Research Assistant focusing on **Intrusion Detection in IoT Networks** using SVM and improved feature selection techniques.
 
 ## 🏆 Achievements
@@ -23,7 +23,7 @@ I'm looking for PhD positions in Statistics, Artificial Intelligence, Informatio
 ## 📚 Education
 - **BS Data Science** (Oct 2021 - May 2025)  
   Government College University Faisalabad, Faisalabad, PK  
-  CGPA: 3.39/4.00 | Rank: 5/54
+  CGPA: 3.47/4.00 | Rank: 5/54
 
 ## 🔍 Research Experience
 - **Research Assistant** at GCUF (Oct 2024 - Present)
