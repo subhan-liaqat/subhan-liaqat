@@ -3,8 +3,9 @@
 I'm looking for PhD positions in Artificial Intelligence, Information Security, and Bioinformatics.
 
 ## 🌱 About Me
-- Currently pursuing a **BS in Data Science** at Government College University Faisalabad, with a CGPA of **3.47/4.00**.
-- Research Assistant focusing on **Intrusion Detection in IoT Networks** using SVM and improved feature selection techniques.
+- Currently pursuing a **BS in Data Science** at Government College University Faisalabad, with a CGPA of **3.47/4.00** and SGPA of **3.98/4.00**.
+- Research Assistant at **Integrative OMICS & Molecular Modeling Lab**.
+- Research Assistant at **Complex Systems Research Lab**.
 
 ## 🏆 Achievements
 - 🥇 **First Place** in Benin Multimodal AI Hackathon | €3000 Award
@@ -26,7 +27,8 @@ I'm looking for PhD positions in Artificial Intelligence, Information Security, 
   CGPA: 3.47/4.00 | Rank: 2/54
 
 ## 🔍 Research Experience
-- **Research Assistant** at GCUF (Oct 2024 - Present)
+- **Research Assistant** at Integrative OMICS & Molecular Modeling Lab (Nov 2024 - Present)
+- **Research Assistant** at Complex Systems Research Lab (Oct 2024 - Present)
  
 ## 🧑‍🏫 Teaching Experience
 - **Section Leader** at Stanford University Code In Place (Apr 2024 - Jun 2024)
