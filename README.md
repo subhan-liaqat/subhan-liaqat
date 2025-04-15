@@ -1,14 +1,13 @@
 # Hi there, I'm Subhan Liaqat! 👋
 
-I'm looking for PhD positions in Artificial Intelligence, Information Security, and Bioinformatics.
+I'm looking for PhD positions in Statistics and Biomedical Informatics.
 
 ## 🌱 About Me
 - Currently pursuing a **BS in Data Science** at Government College University Faisalabad, with a CGPA of **3.47/4.00** and SGPA of **3.98/4.00**.
 - Research Assistant at **Integrative OMICS & Molecular Modeling Lab**.
-- Research Assistant at **Complex Systems Research Lab**.
 
 ## 🏆 Achievements
-- 🥇 **First Place** in Benin Multimodal AI Hackathon | €3000 Award
+- 🥇 **First Place** in Benin Multimodal Hackathon | €3000 Award
 - Featured as a **Section Leader** among 30,000+ applicants in Stanford University's Code In Place Program
 - **Harvard CS50x Puzzle Day Winner** with a score of 9/9 among 11,000+ participants
 - Awarded a **120% Scholarship** in my undergraduate degree by HEC Pakistan
