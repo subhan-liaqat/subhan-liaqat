@@ -27,7 +27,6 @@ I'm looking for PhD positions in Statistics and Biomedical Informatics.
 
 ## 🔍 Research Experience
 - **Research Assistant** at Integrative OMICS & Molecular Modeling Lab (Nov 2024 - Present)
-- **Research Assistant** at Complex Systems Research Lab (Oct 2024 - Present)
  
 ## 🧑‍🏫 Teaching Experience
 - **Section Leader** at Stanford University Code In Place (Apr 2024 - Jun 2024)
