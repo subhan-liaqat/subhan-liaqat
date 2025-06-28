@@ -3,7 +3,7 @@
 I'm looking for PhD positions in Statistical Analysis and Biomedical Informatics.
 
 ## 🌱 About Me
-- Currently pursuing a **BS in Data Science** at Government College University Faisalabad, with a CGPA of **3.47/4.00** and SGPA of **3.98/4.00**.
+- Currently pursuing a **BS in Data Science** at Government College University Faisalabad, with a CGPA of **3.51/4.00** and SGPA of **3.82/4.00**.
 - Research Assistant at **Integrative OMICS & Molecular Modeling Lab**.
 
 ## 🏆 Achievements
@@ -22,7 +22,7 @@ I'm looking for PhD positions in Statistical Analysis and Biomedical Informatics
 ## 📚 Education
 - **BS Data Science** (Oct 2021 - May 2025)  
   Government College University Faisalabad, Faisalabad, PK  
-  CGPA: 3.47/4.00 | Rank: 2/54
+  CGPA: 3.51/4.00 | Rank: 2/54
 
 ## 🔍 Research Experience
 - **Research Assistant** at Integrative OMICS & Molecular Modeling Lab (Nov 2024 - Present)
